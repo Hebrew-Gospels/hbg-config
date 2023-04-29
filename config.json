@@ -1,0 +1,23 @@
+{
+    "mainnet": {
+        "deeplink": "https://website.com/r/",
+        "api": "",
+        "message": "",
+        "privacy_policy": "https://website.ca/privacy.html",
+        "terms_conditions": "https://website.ca/terms-conditions.html",
+        "email": "hello@myappwebsite.com",
+        "appStoreUrl": "",
+        "playStoreUrl": ""
+    },
+    "testnet": {
+        "deeplink": "https://website.com/r/",
+        "api": "http://192.168.4.29:8090",
+        "message": "",
+        "privacy_policy": "https://website.ca/privacy.html",
+        "terms_conditions": "https://website.ca/terms-conditions.html",
+        "email": "hello@myappwebsite.com",
+        "appStoreUrl": "",
+        "playStoreUrl": ""
+    }
+  }
+  
