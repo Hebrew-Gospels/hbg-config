@@ -11,7 +11,7 @@
     },
     "testnet": {
         "deeplink": "https://website.com/r/",
-        "api": "http://127.0.0.1:8090",
+        "api": "http://192.168.4.29:8090",
         "message": "",
         "privacy_policy": "https://website.ca/privacy.html",
         "terms_conditions": "https://website.ca/terms-conditions.html",
