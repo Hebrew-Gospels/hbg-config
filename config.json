@@ -1,7 +1,7 @@
 {
     "mainnet": {
         "deeplink": "https://website.com/r/",
-        "api": "",
+        "api": "https://goldfish-app-own24.ondigitalocean.app",
         "message": "",
         "privacy_policy": "https://website.ca/privacy.html",
         "terms_conditions": "https://website.ca/terms-conditions.html",
