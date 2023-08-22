@@ -7,7 +7,9 @@
         "terms_conditions": "https://www.hebrewgospels.com/mobile-app/terms-conditions",
         "email": "hebrewgospels@gmail.com",
         "appStoreUrl": "",
-        "playStoreUrl": ""
+        "playStoreUrl": "",
+        "latestVersioniOS": "0.0.5",
+        "latestVersionAndroid": 8
     },
     "testnet": {
         "deeplink": "https://website.com/r/",
@@ -17,6 +19,8 @@
         "terms_conditions": "https://www.hebrewgospels.com/mobile-app/terms-conditions",
         "email": "test@test.com",
         "appStoreUrl": "",
-        "playStoreUrl": ""
+        "playStoreUrl": "",
+        "latestVersioniOS": "0.0.5",
+        "latestVersionAndroid": 8
     }
   }
