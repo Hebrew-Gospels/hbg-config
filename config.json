@@ -8,8 +8,8 @@
         "email": "hebrewgospels@gmail.com",
         "appStoreUrl": "",
         "playStoreUrl": "",
-        "latestVersioniOS": "0.0.10",
-        "latestVersionAndroid": 17
+        "latestVersioniOS": "0.1.21",
+        "latestVersionAndroid": 33
     },
     "testnet": {
         "deeplink": "https://website.com/r/",
@@ -20,7 +20,7 @@
         "email": "test@test.com",
         "appStoreUrl": "",
         "playStoreUrl": "",
-        "latestVersioniOS": "0.0.10",
-        "latestVersionAndroid": 17
+        "latestVersioniOS": "0.1.21",
+        "latestVersionAndroid": 33
     }
   }
