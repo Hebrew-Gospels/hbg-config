@@ -13,7 +13,7 @@
     },
     "testnet": {
         "deeplink": "https://website.com/r/",
-        "api": "http://localhost:8090",
+        "api": "https://3847-173-214-198-57.ngrok-free.app",
         "message": "",
         "privacy_policy": "https://www.hebrewgospels.com/mobile-app/privacy-policy",
         "terms_conditions": "https://www.hebrewgospels.com/mobile-app/terms-conditions",
