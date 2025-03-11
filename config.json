@@ -9,7 +9,7 @@
         "appStoreUrl": "",
         "playStoreUrl": "",
         "latestVersioniOS": "0.1.21",
-        "latestVersionAndroid": 33
+        "latestVersionAndroid": 50
     },
     "testnet": {
         "deeplink": "https://website.com/r/",
